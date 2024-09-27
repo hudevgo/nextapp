@@ -119,3 +119,7 @@ export async function GET() {
   }
 }
 */
+
+export funcion hello(){
+return "Hello";
+}
